@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="jackson-annotations-2.15.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/jackson-annotations-2.15.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jackson-core-2.15.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/json-20230227.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jackson-databind-2.15.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/slf4j-api-1.7.36.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/slf4j-simple-1.7.36.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/commons-logging-1.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/httpclient-4.5.14.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/httpcore-4.4.16.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
